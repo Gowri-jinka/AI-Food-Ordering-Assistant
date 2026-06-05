@@ -172,3 +172,5 @@ Your order for Chicken Curry (2) is confirmed ✅
 - Real-time Inventory Updates
 - Order Tracking System
 - Error Handling Improvements
+
+---
